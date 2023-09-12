@@ -6,8 +6,8 @@ Full-Stack Web Developer
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [andrew.caruso03@gmail.com](mailto:andrew.caruso03@gmail.com)
-* 🚀  I'm currently working on [Issue Tracker](https://github.com/Yzma/Issue-Tracker) and a new project called [Game-List](https://github.com/tienviet10/game_list) ([With the frontend here](https://github.com/changLiCoding/game_list_client))
-* 🧠  I'm currently learning Typescript and Apollo
+* 🚀  I'm currently working on [Issue Tracker](https://github.com/Yzma/Issue-Tracker) and the second version of [Game-List](https://github.com/Yzma/gamelist-spring) ([With the frontend here](https://github.com/tienviet10/game-list-fe))
+* 🧠  I'm currently learning the [Spring Framework](https://spring.io/projects/spring-framework)
 
 ### Skills
 
