@@ -1,6 +1,8 @@
 Hi 👋 My name is Andrew Caruso
 ==============================
 
+A Web Developer that excels at identifying and implementing the most effective solutions among multiple options. I am a problem-solver, passionate about staying up-to-date with industry advancements, and committed to delivering exceptional results.
+
 Full-Stack Web Developer
 ------------------------
 
