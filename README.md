@@ -83,7 +83,7 @@ Full-Stack Web Developer
       <br /><strong>Node.js</strong>
     </td>
     <td align="center" height="108" width="108">
-      <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/nextjs.svg" width="36" height="36" alt="NextJS" /></a>
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/nextjs.svg" width="36" height="36" alt="NextJS" /></a>
       <br /><strong>NextJS</strong>
     </td>
     <td align="center" height="108" width="108">
