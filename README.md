@@ -95,22 +95,26 @@ Full-Stack Web Developer
       <br /><strong>Prisma</strong>
     </td>
     <td align="center" height="108" width="108">
+      <a href="https://www.java.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/a3980c779fb39d1ef4235fa8c3d9447ca6708b0b/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+      <br /><strong>Java</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Yzma/Yzma/master/logos/spring-framework.svg" width="36" height="36" alt="Spring Framework" /></a>
+      <br /><strong>Spring Framework</strong></strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+      <br /><strong>GraphQL</strong>
+    </td>
+  </tr>
+  <td align="center" height="108" width="108">
       <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
       <br /><strong>Ruby</strong>
     </td>
     <td align="center" height="108" width="108">
       <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231507923-c683dbaa-43d3-4e69-a2f5-80de85288fd2.svg" width="36" height="36" alt="Ruby on Rails" /></a>
       <br /><strong>Ruby on Rails</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <a href="https://www.java.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/a3980c779fb39d1ef4235fa8c3d9447ca6708b0b/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-      <br /><strong>Java</strong>
-    </td> 
-    <td align="center" height="108" width="108">
-      <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-      <br /><strong>GraphQL</strong>
-    </td>
-  </tr>  
+  </td>
    
   <tr>
     <td>Databases</td>  
